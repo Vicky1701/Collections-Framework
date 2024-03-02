@@ -1,0 +1,11 @@
+
+0
+java:S1220""Move this file to a named package.
+@	java:S106"+Replace this use of System.out by a logger.(ÞÒ©Ø
+V	java:S125"<This block of commented-out lines of code should be removed.(ù’ñþúÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(žóÜÃ
+E	java:S106"+Replace this use of System.out by a logger.(£ãÏªýÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(§ò§êÿÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(À«‘³üÿÿÿÿ
+I
+java:S1128".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ

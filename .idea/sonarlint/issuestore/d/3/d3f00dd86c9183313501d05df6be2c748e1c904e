@@ -1,0 +1,11 @@
+
+0
+java:S1220""Move this file to a named package.
+E	java:S106"+Replace this use of System.out by a logger.(ŸÖ³úùÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(×£î¦ÿÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(ÓÀ³úÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(ÃêãÀ
+O
+java:S1128"4Remove this unused import 'java.util.LinkedHashSet'.(àŽ€¼úÿÿÿÿ
+C
+java:S1128".Remove this unused import 'java.util.TreeSet'.(½îB
